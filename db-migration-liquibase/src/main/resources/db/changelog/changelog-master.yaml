@@ -1,0 +1,7 @@
+databaseChangeLog:
+  - include:
+      file: db/changelog/scripts/0001_create_table_t1.sql
+  - include:
+      file: db/changelog/scripts/0002_create_table_t2.sql
+  - include:
+      file: db/changelog/scripts/0003_create_table_t3.sql
