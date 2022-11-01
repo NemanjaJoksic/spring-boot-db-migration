@@ -39,3 +39,9 @@ gradle-app.setting
 ##############################
 .DS_Store
 .idea
+
+##############################
+## Other
+##############################
+db-migration-flyway/db/
+db-migration-liquibase/db/
