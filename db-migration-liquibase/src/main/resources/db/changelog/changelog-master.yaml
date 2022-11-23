@@ -1,7 +1,7 @@
 databaseChangeLog:
   - include:
-      file: db/changelog/migration/M0001_create_table_t1.sql
+      file: db/changelog/migration2/V_2022-11-04_12-32__create_table_t1.sql
   - include:
-      file: db/changelog/migration/M0002_create_table_t2.sql
+      file: db/changelog/migration2/V_2022-11-10_08-32__create_table_t2.sql
   - include:
-      file: db/changelog/migration/M0003_create_table_t3.sql
+      file: db/changelog/migration2/V_2022-12-01_15-02__create_table_t3.sql
